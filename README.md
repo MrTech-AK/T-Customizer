@@ -70,14 +70,14 @@ To get started, simply follow the provided commands to update and upgrade your T
     pkg install git
     ```
     
-[-] Clone the TermuX-Custom6 repository in your Termux:
+[-] Clone the T-Customizer repository in your Termux:
     ```
-    git clone https://github.com/Cod3r-Ak/TermuX-Custom
+    git clone https://github.com/Cod3r-Ak/T-Customizer
     ```
 
 [-] Navigate to the cloned repository directory:
     ```
-    cd TermuX-Custom
+    cd T-Customizer
     ```
 
 [-] Add execute permissions to all files in the directory:
@@ -96,12 +96,12 @@ apt update
 apt upgrade 
 pkg install git 
 git clone https://github.com/MrTech-AK/T-Customizer 
-cd TermuX-Custom 
+cd T-Customizer
 chmod +x * 
 bash setup.sh 
 ```
 # Star This Repository
-> This project took me 1.5 week to finish! Your 1 star inspires me to create more projects! So, Star This Repository!
+> This project took me 2 week to finish! Your 1 star inspires me to create more projects! So, Star This Repository!
 
 <h1 align="center">Coded with Love by MrTech-AK</h1>
 
