@@ -34,11 +34,11 @@ You can install termux from F-Droid. <br />
 
 ## Screenshorts After installing T-Customizer
 ### Login Screen
-![login](.img/IMG_20240307_234826.jpg)
+![login](Login_Termuz.jpg)
 ### Booting Screen
-![sound-effect](.img/IMG_20240306_233903.jpg)
+![sound-effect](Booting_Termux.jpg)
 ### Termux Terminal
-![termux-terminal](.img/IMG_20240307_234741.jpg)
+![termux-terminal](Terminal_Termux.jpg)
 
 ## Features Of TermuX-Custom
 - [x] Login Screen
@@ -72,7 +72,7 @@ To get started, simply follow the provided commands to update and upgrade your T
     
 [-] Clone the T-Customizer repository in your Termux:
     ```
-    git clone https://github.com/Cod3r-Ak/T-Customizer
+    git clone https://github.com/MrTech-AK/T-Customizer
     ```
 
 [-] Navigate to the cloned repository directory:
@@ -92,13 +92,7 @@ To get started, simply follow the provided commands to update and upgrade your T
 
 ## All Commands in Single Line
 ```go
-apt update 
-apt upgrade 
-pkg install git 
-git clone https://github.com/MrTech-AK/T-Customizer 
-cd T-Customizer
-chmod +x * 
-bash setup.sh 
+apt update && apt upgrade && pkg install git && git clone https://github.com/MrTech-AK/T-Customizer && cd T-Customizer && chmod +x * && bash setup.sh 
 ```
 # Star This Repository
 > This project took me 2 week to finish! Your 1 star inspires me to create more projects! So, Star This Repository!
